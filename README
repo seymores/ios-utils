@@ -1,0 +1,12 @@
+This repo contains utils and helpful categories and classes that I use for my own iOS projects. I hope this help someone out there.
+
+Class Description
+
+1. UIImageView+PhotoFrameEffect
+Turn plain uiimageview into nice photo frame with drop shadow
+
+2. AsImageView (TODO)
+Asynchonous image loader
+
+3. Core Data Query (TODO)
+Helpful category to query core data easily.
